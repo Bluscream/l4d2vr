@@ -29,6 +29,7 @@
 * Disabling SteamVR theater in [Steam settings](https://external-preview.redd.it/1WdLExouo_YKhTGT6C5GGrOjeWO7qNdIdDRvIRBhw-0.png?auto=webp&s=0d4447a9d954e1ec15b2c010cf50eeabd51f4197)
 * Disabling all add-ons then verifying integrity of game files
 * Re-installing the game
+* Temporarily disabling antivirus software including Windows Defender while you're playing
 
 The crashing is likely due to the DX9 to DX12 wrapper. I will look into using DXVK instead.
 
